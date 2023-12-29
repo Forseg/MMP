@@ -1,0 +1,122 @@
+
+.parte1 {
+    background-color:darkorange;
+    padding: 20px;
+    text-align: center;
+}
+.contenedor {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 5px solid yellow;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.container-fluid {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Estilo para el formulario */
+
+
+.nombre-apellido {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+/* Estilos para el contenedor de DNI y Celular */
+.dni-celular {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+/* Estilos para el contenedor de proceso educativo */
+.proceso-superior {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.carrera-ciclo {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.actual-fin {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+
+.conocimiento-lima {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.provincia-contar {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.salud-fortalezas {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.debilidades-disponibilidad {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.motivacion-aportes {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.compromisos-principios {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+
+
+.about-section2, h3 {
+    color: white;
+    margin-top: 100px; 
+    text-align: center;
+    background-color: black;
+ }
+ 
+ .social-icons {
+    display: flex;
+    gap: 10px;
+    justify-content: center; 
+    background-color: #000;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 30px; 
+ }
+ 
+ .social-icons a img {
+    width: 30px;
+    height: auto;
+ }
+ 
+ 
+ .social-icons img:hover {
+    transform: scale(1.1);  
+ }
